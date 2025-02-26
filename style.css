@@ -103,8 +103,7 @@ a{
     opacity: 0.9;
 }
 .badge{
-    color: white;
-    background-color: #050404;
+    background-color: #fff;
     border: none;
     border-radius: 100px;
     padding: 0.25rem 1rem;
